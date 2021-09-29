@@ -1,1 +1,2 @@
-# Good
+# include<studio.h>
+# include<conio.h>
